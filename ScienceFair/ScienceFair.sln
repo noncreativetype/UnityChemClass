@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScienceFair.CSharp", "ScienceFair.CSharp.csproj", "{AC00FD60-DE0E-6387-8FC0-7744EB93B9A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScienceFair.CSharp.Editor", "ScienceFair.CSharp.Editor.csproj", "{547BE6EE-E018-7453-8793-1379C52B4898}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC00FD60-DE0E-6387-8FC0-7744EB93B9A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC00FD60-DE0E-6387-8FC0-7744EB93B9A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC00FD60-DE0E-6387-8FC0-7744EB93B9A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC00FD60-DE0E-6387-8FC0-7744EB93B9A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547BE6EE-E018-7453-8793-1379C52B4898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547BE6EE-E018-7453-8793-1379C52B4898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547BE6EE-E018-7453-8793-1379C52B4898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547BE6EE-E018-7453-8793-1379C52B4898}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
