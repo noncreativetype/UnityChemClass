@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Sciencefair2.unity
+- path: Assets/CO2.unity
   isLoaded: 1
   isActive: 1
