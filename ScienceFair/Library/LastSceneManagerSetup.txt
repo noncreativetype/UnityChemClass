@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CO2.unity
+- path: Assets/CarbonDioxide.unity
   isLoaded: 1
   isActive: 1
